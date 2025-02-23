@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".env"
+hash = "83b0f72e08736643f16f36ea54d92f4539b5e12db2acc335cfee13c4407fbf35"

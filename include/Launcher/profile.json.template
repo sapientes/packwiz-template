@@ -1,0 +1,11 @@
+{
+  "${NAME}-${VERSION}": {
+    "created" : "2024-04-22T06:38:51.556Z",
+    "gameDir" : "%s/${NAME}-${VERSION}",
+    "javaArgs" : "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -javaagent:unsup.jar",
+    "lastUsed" : "1970-01-01T00:00:00.000Z",
+    "lastVersionId" : "${MINECRAFT_VERSION}-${LOADER}-${LOADER_VERSION}",
+    "name" : "${DISPLAY_NAME}",
+    "type" : "custom"
+  }
+}

@@ -1,0 +1,5 @@
+version=1
+preset=minecraft
+
+source_format=packwiz
+source=https://raw.githubusercontent.com/${REPOSITORY}/${BRANCH}/pack.toml

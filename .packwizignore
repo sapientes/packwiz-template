@@ -1,0 +1,15 @@
+include
+.git
+.gitignore
+LICENSE
+README.md
+.github
+Justfile
+build
+.devcontainer
+.vscode
+.envrc
+shell.nix
+.direnv
+overrides
+*/.gitkeep

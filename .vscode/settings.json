@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        ".devcontainer": true,
+        ".github": true,
+        ".gitattributes": true,
+        "**/.gitkeep": true,
+        ".envrc": true,
+        ".direnv": true
+    },
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix"
+}
